@@ -65,9 +65,6 @@
 ```
 ## Usage
 
-모든 명령어는 개발환경이 기본입니다. <br>
-`NODE_ENV`를`production`으로 설정하거나 아래의 단축키를 사용할 수 있습니다.
-
 ```bash
 # Running (개발모드)
 $ npm run dev
